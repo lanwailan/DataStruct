@@ -9,7 +9,7 @@
  
 ## 数据结构第二次课
  * [两个有序链表序列的合并](https://github.com/lanwailan/Embedded-Engineer/blob/main/CS/%E6%B5%99%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/LinearTableMerge.c)
- * 一元多项式的乘法与加法运算
+ * [一元多项式的乘法与加法运算](https://github.com/lanwailan/DataStruct/blob/main/%E7%BC%96%E7%A8%8B%E8%80%83%E6%A0%B8/%E4%B8%80%E5%85%83%E5%A4%9A%E9%A1%B9%E5%BC%8F%E4%B9%98%E6%B3%95%E4%B8%8E%E5%8A%A0%E6%B3%95%E8%BF%90%E7%AE%97.c)
  * Reversing Linked List
  * Pop Sequence 
 
